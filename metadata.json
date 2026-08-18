@@ -1,0 +1,6 @@
+{
+  "name": "나만의 운동 기록부",
+  "description": "캘린더 기반 요일별 루틴 및 허리 안전 팁, 스마트워치 연동 데이터, 구글 시트 연동 운동 기록 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
